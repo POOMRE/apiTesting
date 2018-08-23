@@ -1,0 +1,16 @@
+{
+  "name": "guardtest",
+  "version": "1.0.0",
+  "description": "Test app for Catana DB",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chakram": "^1.5.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha testPack.js"
+  },
+  "author": "Igor Poomre",
+  "license": "ISC"
+}
