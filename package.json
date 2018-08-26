@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Test app for Catana DB",
   "main": "main.js",
-  "dependencies": {},
+  "dependencies": {
+    "colors": "^1.3.2"
+  },
   "devDependencies": {
     "chakram": "^1.5.0",
     "mocha": "^5.2.0"
