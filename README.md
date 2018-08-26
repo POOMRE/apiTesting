@@ -1,12 +1,15 @@
 ## Getting Started
 
-## Installation:
+### Installation:
 Testpack requires Node.js and npm to be installed. It is available as an npm module.
 
 Clone the source:
 
 git clone https://github.com/POOMRE/apiTesting.git
 
-cd apiTesting
+cd apiTesting 
 
-## Run tests:
+run npm install for dependency install
+
+### Run tests:
+For starting tests run npm test 
