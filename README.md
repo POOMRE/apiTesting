@@ -12,5 +12,6 @@ cd apiTesting
 run npm install for dependency install
 
 ### Run tests:
-For starting tests run npm test 
+For starting tests run npm test
+
 Test suites can be managed in testPack.js file
