@@ -1,3 +1,8 @@
+/**
+ * Here we have functions, what we can use in different test
+ * New functions will be added during adding new tests
+ *
+ */
 var chakram = require('chakram')
 const { data } = require('./testData')
 const params = data.params

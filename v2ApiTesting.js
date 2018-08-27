@@ -7,7 +7,6 @@ const params = data.params
 const invalidParams = data.invalidParams
 const credentials = data.credentials
 
-
 /**
  * Returns promise by ID
  * @input param ID
