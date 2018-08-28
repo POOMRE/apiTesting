@@ -43,6 +43,7 @@ function wrapper() {
           })
           // Since using asynchronous signing we need some time
           setTimeout(function() {
+            console.log("KSI SIGNATURE CREATION PROCESS IS ASYNCHRONOUS THEREFORE DATA OUTPUT WILL BE DISPLAYED WITH DELAY".yellow)
             const sigId = response.body.id
             console.log("Signature id:".green + " " + response.body.id)
             // Start promise
